@@ -1,0 +1,2 @@
+const IMAGE_HEIGHT = 500;
+const IMAGE_HEIGHT_SMALL = 500;
